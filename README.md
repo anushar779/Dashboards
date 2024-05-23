@@ -3,7 +3,7 @@
 ## Description:
 The Dashboard helps to enhance employee retention while reducing attrition rates and pinpoint areas of concern and develop targeted retention strategies. This may include improving work-life balance, career development opportunities, compensation and benefits, or addressing issues related to workplace culture or leadership.
 
-Objective: Help the organization to improve employee retention (reduce attrition) by creating HR Analytics Dashboard. 
+Objective: Help the organization to improve Employee Retention (Reduce Attrition) by creating HR Analytics Dashboard. 
 
 
 ### Steps followed:
