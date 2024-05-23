@@ -26,7 +26,7 @@ Replace values using replace values.
 
 4.	Create Calculated Fields related to Key Performance Indicators and name it.
 
-5.	Create a dashboard - Align all charts in the dashboard.
+5.	Create a dashboard: Align all charts in the dashboard.
 
 
 6.	Show the below following details of Key Performance Indicators - 
