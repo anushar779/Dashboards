@@ -66,7 +66,7 @@ Formula used: SUM(HR_Analytics[AttritionCount])/SUM(HR_Analytics[EmployeeCount])
 
 •	Average Years - AVERAGE(HR_Analytics[YearsAtCompany])
 
- # Report Snapshot (Power BI DESKTOP)
+ # Dashboard Snapshot (Power BI DESKTOP)
  
 ![HR Analytics Dashboard](https://github.com/anushar779/Dashboards/assets/170659132/f0458cfb-7714-409a-820a-bb279114b36b)
 
