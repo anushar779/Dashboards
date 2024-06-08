@@ -68,7 +68,7 @@ Formula used: SUM(HR_Analytics[AttritionCount])/SUM(HR_Analytics[EmployeeCount])
 
  # Dashboard Snapshot (Power BI DESKTOP)
  
-![HR Analytics Dashboard](https://github.com/anushar779/Dashboards/assets/170659132/f0458cfb-7714-409a-820a-bb279114b36b)
+![HR Analytics Dashboard](https://github.com/anushar779/Power-BI-Project-work-1/assets/170659132/7aea9582-d0e2-43db-8e33-1402a500bda8)
 
 # Interpretation:
 
