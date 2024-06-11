@@ -110,7 +110,7 @@ Visualization:
 
 •	Attrition by Age: Vertical bar chart showing attrition by Age.
 
-•	Attrition b Gender: Tree map showing attrition by Gender.
+•	Attrition by Gender: Tree map showing attrition by Gender.
 
 •	Turnover Trend Over Time/Attrition by Years: Line chart showing attrition trends over years.
 
